@@ -1,4 +1,4 @@
-# first
+# nuxt-i18n
 
 ## Build Setup
 
